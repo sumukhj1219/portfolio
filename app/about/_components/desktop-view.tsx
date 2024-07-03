@@ -19,7 +19,7 @@ const DesktopView = () => {
 		</p> 
 	  </div>
 	  <div className='col-start-6 col-end-9 p-10 rounded-3xl border-r-8 border-b-8 border-l-2 border-t-2 border-black  mt-2 '>
-			<Image src={'/avatar.jpeg'} alt='avatar' className='rounded-3xl' width={350} height={350} />
+			<Image src={'./avatar.jpeg'} alt='avatar' className='rounded-3xl' width={350} height={350} />
 		
 	  </div>
 	  <div className='col-start-10 col-end-12 flex-col '>

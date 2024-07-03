@@ -23,7 +23,7 @@ const MobileView = () =>
 						</p>
 					</div>
 					<div className='p-4 rounded-xl border-r-8 border-b-8 border-l-2 border-t-2 border-black mt-4 m-2'>
-						<Image src={'/avatar.jpeg'} alt='avatar' className='rounded-3xl' width={350} height={250} />
+						<Image src={'./avatar.jpeg'} alt='avatar' className='rounded-3xl' width={350} height={250} />
 
 					</div>
 					<div className='flex justify-between'>
