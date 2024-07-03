@@ -16,7 +16,7 @@ const MobileView = () =>
 				<div className='mt-14 flex-col m-2'>
 					<div className=''>
 						<span className='text-primary text-lg font-extrabold'>BIOGRAPHY</span>
-						<p className='text-md font-normal mt-4'>I'm Sumukh Joshi, currently pursuing my degree with a keen interest in web development and blockchain technology. Over the past two years, I've been immersed in coding, exploring various aspects of software development and building skills that blend creativity with technical expertise.
+						<p className='text-md font-normal mt-4'>Im Sumukh Joshi, currently pursuing my degree with a keen interest in web development and blockchain technology. Over the past two years, Ive been immersed in coding, exploring various aspects of software development and building skills that blend creativity with technical expertise.
 						</p>
 						<br />
 						<p className='text-md font-normal'>My journey involves exploring new technologies and frameworks to create innovative solutions that impact the digital landscape. Passionate about leveraging the power of the web and blockchain to transform ideas into tangible realities.

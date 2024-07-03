@@ -45,7 +45,7 @@ const MobileView = () => {
 						Hello Everyone <Wave />
 					</h1>
 					<h1 className='text-5xl text-black font-extrabold'>
-						I'm SUMUKH
+						I&aposm SUMUKH
 					</h1>
 					<div className='sm:hidden flex flex-row items-center mt-10 gap-2'>
 						<Link href={'mailto:sumukhjoshi4@gmail'} >

@@ -47,7 +47,7 @@ const HomePage = () => {
 								Hello Everyone <Wave />
 							</h1>
 							<h1 className='text-7xl text-black font-extrabold'>
-								I'm SUMUKH
+								I&aposm SUMUKH
 							</h1>
 							<div className='flex flex-row items-center mt-10 gap-20'>
 								<Link href={'mailto:sumukhjoshi4@gmail'} >
