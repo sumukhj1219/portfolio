@@ -13,23 +13,23 @@ const MobileView = () => {
 	const components: { title: string; logo: any }[] = [
 		{
 			title: "SEARCH ENGINE OPTIMIZE",
-			logo: <Image src={'/seo.png'} alt='seo-image' width={45} height={45} />,
+			logo: <Image src={'./seo.png'} alt='seo-image' width={45} height={45} />,
 		},
 		{
 			title: "WEBSITES AND PLATFORMS",
-			logo: <Image src={'/cross-platform.png'} alt='seo-image' width={45} height={45} />,
+			logo: <Image src={'./cross-platform.png'} alt='seo-image' width={45} height={45} />,
 		},
 		{
 			title: "PURSUING DEGREE",
-			logo: <Image src={'/engineer-degree.png'} alt='seo-image' width={45} height={45} />,
+			logo: <Image src={'./engineer-degree.png'} alt='seo-image' width={45} height={45} />,
 		},
 		{
 			title: "ATTEND WEBINARS AND EVENTS",
-			logo: <Image src={'/coding.png'} alt='seo-image' width={45} height={45} />,
+			logo: <Image src={'./coding.png'} alt='seo-image' width={45} height={45} />,
 		},
 		{
 			title: "PREPARING FOR GSOC 2025",
-			logo: <Image src={'/commit.png'} alt='seo-image' width={45} height={45} />,
+			logo: <Image src={'./commit.png'} alt='seo-image' width={45} height={45} />,
 		}
 	];
 
@@ -45,7 +45,7 @@ const MobileView = () => {
 						Hello Everyone <Wave />
 					</h1>
 					<h1 className='text-5xl text-black font-extrabold'>
-						I&aposm SUMUKH
+						Im SUMUKH
 					</h1>
 					<div className='sm:hidden flex flex-row items-center mt-10 gap-2'>
 						<Link href={'mailto:sumukhjoshi4@gmail'} >

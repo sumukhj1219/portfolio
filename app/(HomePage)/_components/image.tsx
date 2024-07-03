@@ -6,7 +6,7 @@ const AvatarComponent = () => {
     <div className='m-10'>
       <div className='bg-white rounded-full overflow-hidden w-96 h-96'>
         <Image
-          src={'/avatar.jpeg'}
+          src={'./avatar.jpeg'}
           alt='avatar'
           width={384}
           height={384}
