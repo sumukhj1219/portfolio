@@ -1,6 +1,5 @@
 import React from 'react';
 import { Cards } from './_components/project-cards';
-import Image from 'next/image';
 import { MobileCards } from './_components/(mobile)/mobile-view';
 import { Sidebar } from '../(HomePage)/_components/mobile-sidebar';
 
@@ -11,7 +10,7 @@ const ProjectPage = () => {
 		<Sidebar />
 	  </nav>
       <div className='flex items-center justify-center'>
-        <h1 className='font-extrabold text-pretty md:text-7xl text-2xl flex'>
+        <h1 className='font-extrabold text-pretty md:text-7xl text-xl flex'>
           Transforming Ideas into Reality 
         </h1>
       </div>
