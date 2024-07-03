@@ -12,7 +12,7 @@ const ProjectPage = () => {
 	  </nav>
       <div className='flex items-center justify-center'>
         <h1 className='font-extrabold text-pretty md:text-7xl text-2xl flex'>
-          Transforming Ideas <Image src='/idea.png' className='hidden' alt='idea' width={25} height={20} /> into Reality 
+          Transforming Ideas into Reality 
         </h1>
       </div>
       
