@@ -9,27 +9,28 @@ import LinkedInIcon from '@mui/icons-material/LinkedIn';
 import GitHubIcon from '@mui/icons-material/GitHub';
 import CodeIcon from '@mui/icons-material/Code';
 
+
 const HomePage = () => {
 	const components: { title: string; logo: any }[] = [
 		{
 			title: "SEARCH ENGINE OPTIMIZE",
-			logo: <Image src={'./seo.png'} alt='seo-image' width={45} height={45} />,
+			logo: <Image src={'./_components/public/seo.png'} alt='seo-image' width={45} height={45} />,
 		},
 		{
 			title: "WEBSITES AND PLATFORMS",
-			logo: <Image src={'./cross-platform.png'} alt='seo-image' width={45} height={45} />,
+			logo: <Image src={'./_components/public/cross-platform.png'} alt='seo-image' width={45} height={45} />,
 		},
 		{
 			title: "PURSUING DEGREE",
-			logo: <Image src={'/engineer-degree.png'} alt='seo-image' width={45} height={45} />,
+			logo: <Image src={'./_components/public/engineer-degree.png'} alt='seo-image' width={45} height={45} />,
 		},
 		{
 			title: "ATTEND WEBINARS AND EVENTS",
-			logo: <Image src={'/coding.png'} alt='seo-image' width={45} height={45} />,
+			logo: <Image src={'./_components/public/coding.png'} alt='seo-image' width={45} height={45} />,
 		},
 		{
 			title: "PREPARING FOR GSOC 2025",
-			logo: <Image src={'/commit.png'} alt='seo-image' width={45} height={45} />,
+			logo: <Image src={'./_components/public/commit.png'} alt='seo-image' width={45} height={45} />,
 		}
 	];	
 
