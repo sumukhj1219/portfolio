@@ -13,11 +13,11 @@ const HomePage = () => {
 	const components: { title: string; logo: any }[] = [
 		{
 			title: "SEARCH ENGINE OPTIMIZE",
-			logo: <Image src={'/seo.png'} alt='seo-image' width={45} height={45} />,
+			logo: <Image src={'./seo.png'} alt='seo-image' width={45} height={45} />,
 		},
 		{
 			title: "WEBSITES AND PLATFORMS",
-			logo: <Image src={'/cross-platform.png'} alt='seo-image' width={45} height={45} />,
+			logo: <Image src={'./cross-platform.png'} alt='seo-image' width={45} height={45} />,
 		},
 		{
 			title: "PURSUING DEGREE",
